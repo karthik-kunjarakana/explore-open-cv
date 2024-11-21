@@ -2,7 +2,7 @@
 """
 Created on Thu Nov 21 23:38:09 2024
 
-@author: bgr
+@author: karthik-kunjarakana
 """
 
 import cv2
@@ -16,3 +16,9 @@ image =cv2.imread('C:/Users/bgr/Downloads/OpEn Cv/explore-open-cv/images/house_f
 print(B)
 print(G)
 print(R)
+
+''' output
+76
+111
+125
+'''
