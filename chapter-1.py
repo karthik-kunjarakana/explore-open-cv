@@ -2,7 +2,7 @@
 """
 Created on Thu Nov 21 23:30:43 2024
 
-@author: bgr
+@author: karthik-kunjarakana
 """
 
 import cv2
