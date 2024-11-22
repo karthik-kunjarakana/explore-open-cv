@@ -4,6 +4,7 @@ Created on Thu Nov 21 23:47:53 2024
 
 """
 '''Extracting the Region of Interest (ROI) '''
+''' We will calculate the region of interest by slicing the pixels of the image'''
 
 import cv2
 image =cv2.imread('C:/Users/bgr/Downloads/OpEn Cv/explore-open-cv/images/house_finch.JPEG')
